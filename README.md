@@ -1,5 +1,5 @@
 # CS-360-Project-three
-Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+What user needs was this app designed to address?
 The app, named GoalCalorie, aimed to help users monitor their daily weight and progress towards weight goals. It addressed the needs of users who desired a user-friendly tool for weight tracking, promoting accountability and motivation in their weight management journey.
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 Screens such as login/registration, dashboard for weight history, add weight, set goal weight, and notifications were essential. The UI designs prioritized simplicity, intuitive navigation, and clear presentation of data. Success was evident in positive user feedback, indicating ease of use and efficient tracking.
